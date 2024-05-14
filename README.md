@@ -1,2 +1,2 @@
 # Coursera
-To work through the Coursera Class
+To work through the Coursera Class.
